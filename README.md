@@ -16,3 +16,7 @@ Running `trivy fs` scan yields the following false positive errors:
 ## Note
 
 This only happens for the `pnpm` package manager.
+
+## Update
+
+This was discussed in this issue here [aquasecurity/trivy/discussions/6749](https://github.com/aquasecurity/trivy/discussions/6749), however closed as a non-issue, since trivy currently does not support pnpm9 where this problem incurs.
