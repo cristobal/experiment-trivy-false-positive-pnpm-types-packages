@@ -1,4 +1,4 @@
-# trivy-false-positive-on-pnpm-types-packages
+# Trivy False Positive on PNPM `@types`-packages
 Highlights false positive for trivy scan for `@types/packages` when using pnpm.
 
 ## Info
